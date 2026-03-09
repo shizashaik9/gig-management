@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gig-management/static/css/main.9074e82b.css",
-    "main.js": "/gig-management/static/js/main.323bd679.js",
+    "main.js": "/gig-management/static/js/main.d3f56158.js",
     "index.html": "/gig-management/index.html",
     "main.9074e82b.css.map": "/gig-management/static/css/main.9074e82b.css.map",
-    "main.323bd679.js.map": "/gig-management/static/js/main.323bd679.js.map"
+    "main.d3f56158.js.map": "/gig-management/static/js/main.d3f56158.js.map"
   },
   "entrypoints": [
     "static/css/main.9074e82b.css",
-    "static/js/main.323bd679.js"
+    "static/js/main.d3f56158.js"
   ]
 }
